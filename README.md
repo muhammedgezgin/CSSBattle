@@ -1,4 +1,4 @@
 # CSSBattle 
 
-(WebSite)[https://cssbattle.dev/]
+[WebSite](https://cssbattle.dev/)
 
